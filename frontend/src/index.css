@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+body {
+  background: linear-gradient(to bottom right, #4e958b, #192F2C);
+  color: white;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
